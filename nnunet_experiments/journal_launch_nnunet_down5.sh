@@ -1,0 +1,5 @@
+bash journal_nnunet_launch_training_down5.sh 025 0
+bash journal_nnunet_launch_training_down5.sh 025 1
+bash journal_nnunet_launch_training_down5.sh 025 2
+bash journal_nnunet_launch_training_down5.sh 025 3
+bash journal_nnunet_launch_training_down5.sh 025 4

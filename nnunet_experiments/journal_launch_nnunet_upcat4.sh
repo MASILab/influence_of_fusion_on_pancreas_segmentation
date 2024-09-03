@@ -1,0 +1,5 @@
+bash journal_nnunet_launch_training_upcat4.sh 028 0
+bash journal_nnunet_launch_training_upcat4.sh 028 1
+bash journal_nnunet_launch_training_upcat4.sh 028 2
+bash journal_nnunet_launch_training_upcat4.sh 028 3
+bash journal_nnunet_launch_training_upcat4.sh 028 4
